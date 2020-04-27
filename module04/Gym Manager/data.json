@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://github.com/settings/profile",
+      "name": "Evandro Pereira Gibicoski",
+      "birth": 1587772800000,
+      "gender": "M",
+      "service": "Caramba",
+      "created_at": 1587854238578
+    }
+  ]
+}
